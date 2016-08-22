@@ -6,9 +6,6 @@
 	<persistence-unit name="prova-pratica-assert-db" transaction-type="RESOURCE_LOCAL">
 		<provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
 		
-		<class>br.com.assertsistemas.entities.Usuario</class>
-		<exclude-unlisted-classes>false</exclude-unlisted-classes> 
-		
 		<properties>
 			<!-- CONFIGURACAO DB -->
 			<property name="javax.persistence.jdbc.password" value="" />
