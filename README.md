@@ -4,7 +4,7 @@ Prova Pratica Assert Sistemas
 Source cod guithub [GitHub](https://github.com/JadersonBerti/prova-pratica-assert.git)
 
  Nesta pequena aplicação existe uma necessidade de manipulação no dados.
- Foi nos dado 3 arquivos txt, csv, accdb (data access), onde o objetivo são hingenizar os dados, 
+ Foi nos dado 3 arquivos txt, csv, accdb (data access), onde o objetivo são higienizar os dados, 
  salvar no banco e  gerar novamente um csv e um txt com novos campos.
  
 Interfaces a serem implementadas
