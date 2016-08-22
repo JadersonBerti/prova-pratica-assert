@@ -24,7 +24,7 @@ Pontos em que o candidato sera avaliado
 
  - Logica aplicada; 
 
- - Padrões de projeto ultilizado (Não fique preso a arquitetura atual do projeto, fique avontade para ir alem);
+ - Padrões de projeto utilizados (Não fique preso a arquitetura atual do projeto, fique avontade para ir alem);
  
  - Tudo que voce fizer de extra no projeto sera avaliado.
  
