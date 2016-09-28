@@ -1,4 +1,4 @@
-id&nome&sobrenome&rg&data nacimento&cor dos olhos&cpf&idade da mae&idade do pai&valor do beneficio
+id&nome&sobrenome&rg&data de nascimento&cor dos olhos&cpf&idade da mae&idade do pai&valor do beneficio
 241&maria jose&1234567&02/10/1996&castanho&000.000.000-00&25&26&R$: 2540,74
 0&marcos antonio&1234567&28/06/1994&preto&000.000.000-00&85&80&R$: 3000,00
 1&luiz antonio&1234567&05/08/1985&castanho&000.000.000-00&36&30&R$: 6000,00
