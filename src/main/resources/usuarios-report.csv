@@ -1,13 +1,13 @@
-id;nome;sobrenome;rg;data nacimento;cor dos olhos;cpf;idade da mae;idade do pai;valor do beneficio
-241;maria;jose;1234567;02/10/1996;castanho;000.000.000-00;25;26;R$: 2540,74
-0;marcos;antonio;1234567;28/06/1994;preto;000.000.000-00;85;80;R$: 3000,00
-1;luiz;antonio;1234567;05/08/1985;castanho;000.000.000-00;36;30;R$: 6000,00
-2;matheus;almeida;1234567;18/02/2005;azul;000.000.000-00;47;40;R$: 2200,00
-3;ricardo;santos;1234567;20/09/2002;verde;000.000.000-00;85;80;R$: 3850,10
-4;thiago;borges;1234567;31/05/1995;castanho;000.000.000-00;63;60;R$: 2587,87
-5;carlos;alberto;1234567;28/03/1997;castanho;000.000.000-00;37;30;R$: 4500,89
-6;eduardo;cunha;1234567;15/11/2006;azul;000.000.000-00;39;35;R$: 5800,40
-7;ludimila;braga;1234567;16/09/1996;verde;000.000.000-00;64;64;R$: 1200,32
-8;marcela;dos santos;1234567;10/08/1996;azul;000.000.000-00;54;50;R$: 1350,36
-9;lorena;correia pinto;1234567;09/11/1988;azul;000.000.000-00;58;54;R$: 2140,88
-10;joao;neto;1234567;12/12/1950;azul;000.000.000-00;102;90;R$: 2240,10
+id;nome;sobrenome;rg;data de nascimento;cor dos olhos;cpf;idade da mae;idade do pai;valor do beneficio
+241;maria jose;1234567;02/10/1996;castanho;000.000.000-00;25;26;R$: 2540,74
+0;marcos antonio;1234567;28/06/1994;preto;000.000.000-00;85;80;R$: 3000,00
+1;luiz antonio;1234567;05/08/1985;castanho;000.000.000-00;36;30;R$: 6000,00
+2;matheus almeida;1234567;18/02/2005;azul;000.000.000-00;47;40;R$: 2200,00
+3;ricardo santos;1234567;20/09/2002;verde;000.000.000-00;85;80;R$: 3850,10
+4;thiago borges;1234567;31/05/1995;castanho;000.000.000-00;63;60;R$: 2587,87
+5;carlos alberto;1234567;28/03/1997;castanho;000.000.000-00;37;30;R$: 4500,89
+6;eduardo cunha;1234567;15/11/2006;azul;000.000.000-00;39;35;R$: 5800,40
+7;ludimila braga;1234567;16/09/1996;verde;000.000.000-00;64;64;R$: 1200,32
+8;marcela dos santos;1234567;10/08/1996;azul;000.000.000-00;54;50;R$: 1350,36
+9;lorena correia pinto;1234567;09/11/1988;azul;000.000.000-00;58;54;R$: 2140,88
+10;joao neto;1234567;12/12/1950;azul;000.000.000-00;102;90;R$: 2240,10
